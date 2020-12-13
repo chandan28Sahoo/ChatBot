@@ -1,0 +1,61 @@
+[{
+        "number": 1,
+        "question": "Eighteen thousandths, written as a decimal, is:",
+        "answers": [
+            "0.0018",
+            "0.018",
+            "0.18",
+            "0.33"
+        ],
+        "correct_answer": "0.0018"
+    },
+    {
+        "number": 2,
+        "question": "The next number in the sequence 1, 3, 6, 10, is:",
+        "answers": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "correct_answer": "15"
+    }, {
+        "number": 3,
+        "question": "add two number 12 + 32",
+        "answers": ["54", "44", "42", "35"],
+        "correct_answer": "44"
+    }, {
+        "number": 4,
+        "question": "Which one is correct team name in NBA?",
+        "answers": [
+            "New York Bulls",
+            "Los Angeles Kings",
+            "Golden State Warriros",
+            "Huston Rocket"
+        ],
+        "correct_answer": "Huston Rocket"
+    },
+
+    {
+        "number": 5,
+        "question": "5 + 7 = ?",
+        "answers": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correct_answer": "12"
+    },
+    {
+        "number": 6,
+        "question": "12 - 8 = ?",
+        "answers": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "4"
+    }
+]
